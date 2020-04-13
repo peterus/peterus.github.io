@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-04-06 02:48:52+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/04/joshua-tree-national-park/
-slug: joshua-tree-national-park
 title: Joshua Tree National Park
-wordpress_id: 456
 categories:
 - Reisen
 - USA Reise 2018
