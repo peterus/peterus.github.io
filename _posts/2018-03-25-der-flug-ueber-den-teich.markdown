@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-25 02:08:42+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/der-flug-ueber-den-teich/
-slug: der-flug-ueber-den-teich
 title: Der Flug über den Teich
-wordpress_id: 245
 categories:
 - Fliegen
 - Reisen
