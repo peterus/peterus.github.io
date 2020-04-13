@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-26 05:39:33+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/erster-tag-in-san-francisco/
-slug: erster-tag-in-san-francisco
 title: Erster Tag in San Francisco
-wordpress_id: 291
 categories:
 - Reisen
 - USA Reise 2018
