@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-24 18:42:11+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/es-geht-endlich-los-nach-amerika/
-slug: es-geht-endlich-los-nach-amerika
 title: Es geht endlich los nach Amerika!
-wordpress_id: 236
 categories:
 - Fliegen
 - Reisen
