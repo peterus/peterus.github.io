@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-30 20:00:09+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/es-geht-langsam-wieder-berg-auf/
-slug: es-geht-langsam-wieder-berg-auf
 title: Es geht langsam wieder Berg auf
-wordpress_id: 365
 categories:
 - Reisen
 - USA Reise 2018
