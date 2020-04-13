@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-27 22:23:02+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/erster-tag-mit-dem-rv/
-slug: erster-tag-mit-dem-rv
 title: Erster Tag mit dem RV
-wordpress_id: 312
 categories:
 - Reisen
 - USA Reise 2018
