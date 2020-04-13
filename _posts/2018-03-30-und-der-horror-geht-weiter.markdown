@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-30 16:11:38+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/und-der-horror-geht-weiter/
-slug: und-der-horror-geht-weiter
 title: Und der Horror geht weiter
-wordpress_id: 363
 categories:
 - Reisen
 - USA Reise 2018
