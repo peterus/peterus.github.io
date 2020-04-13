@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2013-01-23 19:49:26+00:00
 layout: post
-link: http://www.pbuchegger.at/2013/01/warum-ein-neugeborener-nicht-warten-will/
-slug: warum-ein-neugeborener-nicht-warten-will
 title: Warum ein Neugeborener nicht warten will?
-wordpress_id: 46
 categories:
 - Rotes Kreuz
 ---
