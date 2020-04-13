@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-27 18:54:54+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/zweiter-tag-in-san-francisco/
-slug: zweiter-tag-in-san-francisco
 title: Zweiter Tag in San Francisco
-wordpress_id: 296
 categories:
 - Reisen
 - USA Reise 2018
