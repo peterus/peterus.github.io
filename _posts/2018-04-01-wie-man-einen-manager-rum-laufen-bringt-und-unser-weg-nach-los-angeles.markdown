@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-04-01 17:35:59+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/04/wie-man-einen-manager-rum-laufen-bringt-und-unser-weg-nach-los-angeles/
-slug: wie-man-einen-manager-rum-laufen-bringt-und-unser-weg-nach-los-angeles
 title: Wie man einen Manager zum laufen bringt und unser Weg nach Los Angeles
-wordpress_id: 370
 categories:
 - Reisen
 - USA Reise 2018
