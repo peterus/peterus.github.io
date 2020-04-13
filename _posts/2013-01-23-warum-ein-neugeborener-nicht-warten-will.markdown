@@ -1,6 +1,4 @@
 ---
-date: 2013-01-23 19:49:26+00:00
-layout: post
 title: Warum ein Neugeborener nicht warten will?
 categories:
 - Rotes Kreuz
