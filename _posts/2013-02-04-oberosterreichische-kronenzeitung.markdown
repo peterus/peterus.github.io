@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2013-02-04 10:28:27+00:00
 layout: post
-link: http://www.pbuchegger.at/2013/02/oberosterreichische-kronenzeitung/
-slug: oberosterreichische-kronenzeitung
 title: 'Geburts Foto: oberösterreichische Kronenzeitung'
-wordpress_id: 53
 categories:
 - Rotes Kreuz
 ---
