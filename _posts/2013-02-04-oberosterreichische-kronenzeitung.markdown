@@ -1,6 +1,4 @@
 ---
-date: 2013-02-04 10:28:27+00:00
-layout: post
 title: 'Geburts Foto: oberösterreichische Kronenzeitung'
 categories:
 - Rotes Kreuz
@@ -10,4 +8,4 @@ Gestern am 03.02.2013 wurde in der oberösterreichischen Kronenzeitung ein klein
 
 Hier das Foto:
 
-[![IMG_5488](http://www.pbuchegger.at/wp-content/uploads/2013/02/IMG_5488-1024x643.jpg)](http://www.pbuchegger.at/wp-content/uploads/2013/02/IMG_5488.jpg)
+![IMG_5488](IMG_5488.jpg)
