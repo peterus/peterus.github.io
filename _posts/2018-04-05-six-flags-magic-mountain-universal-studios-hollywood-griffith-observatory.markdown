@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-04-05 02:49:43+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/04/six-flags-magic-mountain-universal-studios-hollywood-griffith-observatory/
-slug: six-flags-magic-mountain-universal-studios-hollywood-griffith-observatory
 title: Six Flags Magic Mountain & Universal Studios Hollywood & Griffith Observatory
-wordpress_id: 423
 categories:
 - Reisen
 - USA Reise 2018
