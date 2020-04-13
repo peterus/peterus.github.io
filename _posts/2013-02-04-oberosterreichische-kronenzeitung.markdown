@@ -8,4 +8,4 @@ Gestern am 03.02.2013 wurde in der oberösterreichischen Kronenzeitung ein klein
 
 Hier das Foto:
 
-![IMG_5488](IMG_5488.jpg)
+![IMG_5488](/assets/images/IMG_5488.jpg)
