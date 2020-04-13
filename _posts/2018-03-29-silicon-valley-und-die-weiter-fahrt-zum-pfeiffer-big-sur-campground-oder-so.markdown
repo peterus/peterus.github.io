@@ -1,12 +1,7 @@
 ---
-author: admin
-comments: false
 date: 2018-03-29 19:00:57+00:00
 layout: post
-link: http://www.pbuchegger.at/2018/03/silicon-valley-und-die-weiter-fahrt-zum-pfeiffer-big-sur-campground-oder-so/
-slug: silicon-valley-und-die-weiter-fahrt-zum-pfeiffer-big-sur-campground-oder-so
 title: Silicon Valley und die weiter fahrt zum Pfeiffer Big Sur Campground (oder so...)
-wordpress_id: 331
 categories:
 - Reisen
 - USA Reise 2018
