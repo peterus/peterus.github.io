@@ -1,6 +1,4 @@
 ---
-date: 2018-03-30 20:00:09+00:00
-layout: post
 title: Es geht langsam wieder Berg auf
 categories:
 - Reisen
