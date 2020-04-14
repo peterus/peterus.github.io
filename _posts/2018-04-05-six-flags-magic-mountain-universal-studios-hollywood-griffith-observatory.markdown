@@ -1,6 +1,4 @@
 ---
-date: 2018-04-05 02:49:43+00:00
-layout: post
 title: Six Flags Magic Mountain & Universal Studios Hollywood & Griffith Observatory
 categories:
 - Reisen
