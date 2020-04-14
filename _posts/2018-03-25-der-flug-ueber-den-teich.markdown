@@ -14,9 +14,13 @@ Dort angekommen brachten wir nur schnell unser Gepäck auf das Zimmer und machte
 
 * * *
 
+![20180325_070809.jpg](/assets/images/20180325_070809.jpg)
+
 ![20180325_070839.jpg](/assets/images/20180325_070839.jpg)
 
 Am Sonntag um 5 Uhr Früh gingen unsere Wecker, da wir bereits um 5:30 das Hotel für den checkin wieder verlassen mussten. Der Flug nach Paris Paris-Charles-de-Gaulle war sehr unspektakulär: ca. 10 bis 15 Minuten Verspätung beim Abflug und bei der Ankunft waren es nur mehr 10 Minuten.
+
+![IMG-20180325-WA0005.jpg](/assets/images/IMG-20180325-WA0005.jpg)
 
 ![20180325_072723_HDR-e1522026248780.jpg](/assets/images/20180325_072723_HDR-e1522026248780.jpg)
 
@@ -33,6 +37,8 @@ Nach einem gefühlten elend langem Fernsehrtag im Flieger haben wir endlich SFO 
 ![IMG-20180326-WA0000.jpg](/assets/images/IMG-20180326-WA0000.jpg)
 
 Als wir dann endlich fertig waren, haben wir dann noch Geld bei einem ATM abgehoben (meine Bankomatkarte geht wieder einmal nicht - Nachtrag: ich glaub da ist noch das GeoControl eingeschaltet^^). Nachdem wir dann auch mit Geld versorgt waren, ging es direkt zum BART (Bay Area Rapid Transit, Zug in und rum San Francisco) um in unser Hotel zu kommen.
+
+![20180325_141654-e1522030055456.jpg](/assets/images/20180325_141654-e1522030055456.jpg)
 
 ![20180325_140815.jpg](/assets/images/20180325_140815.jpg)
 
