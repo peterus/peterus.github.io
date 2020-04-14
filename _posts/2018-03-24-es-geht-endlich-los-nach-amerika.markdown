@@ -1,6 +1,4 @@
 ---
-date: 2018-03-24 18:42:11+00:00
-layout: post
 title: Es geht endlich los nach Amerika!
 categories:
 - Fliegen
