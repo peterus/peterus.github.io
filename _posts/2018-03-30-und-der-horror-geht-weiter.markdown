@@ -1,6 +1,4 @@
 ---
-date: 2018-03-30 16:11:38+00:00
-layout: post
 title: Und der Horror geht weiter
 categories:
 - Reisen
