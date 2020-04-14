@@ -1,6 +1,4 @@
 ---
-date: 2018-04-06 02:48:52+00:00
-layout: post
 title: Joshua Tree National Park
 categories:
 - Reisen
