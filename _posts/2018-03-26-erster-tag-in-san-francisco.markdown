@@ -1,6 +1,4 @@
 ---
-date: 2018-03-26 05:39:33+00:00
-layout: post
 title: Erster Tag in San Francisco
 categories:
 - Reisen
