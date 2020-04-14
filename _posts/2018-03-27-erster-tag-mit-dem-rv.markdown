@@ -1,6 +1,4 @@
 ---
-date: 2018-03-27 22:23:02+00:00
-layout: post
 title: Erster Tag mit dem RV
 categories:
 - Reisen
