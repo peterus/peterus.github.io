@@ -26,6 +26,8 @@ Am Abend habe ich dann noch für den nächsten Tag die Planung gemacht: Laut onl
 
 Heute am Mittwoch waren wir gerade noch beim **Griffith Observatory** um den Hollywood Schriftzug zu sehen. Außerdem haben wir uns natürlich das Observatorium angeschaut.
 
-[![](http://www.pbuchegger.at/wp-content/uploads/2018/04/20180404_144848-1024x512.jpg)](http://www.pbuchegger.at/wp-content/uploads/2018/04/20180404_144848.jpg)[![](http://www.pbuchegger.at/wp-content/uploads/2018/04/20180404_144729_HDR-1024x512.jpg)](http://www.pbuchegger.at/wp-content/uploads/2018/04/20180404_144729_HDR.jpg)
+![20180404_144848.jpg](/assets/images/20180404_144848.jpg)
+
+![20180404_144729_HDR.jpg](/assets/images/20180404_144729_HDR.jpg)
 
 Jetzt gerade (ca. halb 5 am Nachmittag, viel zu spät) machen wir uns auf den Weg zum **Joshua Tree National Park** (wo alles reserviert ist) und werden versuchen doch noch einen Platz zu bekommen. Sonst müssen wir uns für heute Nacht noch einen Platz außerhalb suchen.
