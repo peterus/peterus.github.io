@@ -1,6 +1,4 @@
 ---
-date: 2018-04-01 17:35:59+00:00
-layout: post
 title: Wie man einen Manager zum laufen bringt und unser Weg nach Los Angeles
 categories:
 - Reisen
