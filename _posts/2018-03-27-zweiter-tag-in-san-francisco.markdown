@@ -1,6 +1,4 @@
 ---
-date: 2018-03-27 18:54:54+00:00
-layout: post
 title: Zweiter Tag in San Francisco
 categories:
 - Reisen
