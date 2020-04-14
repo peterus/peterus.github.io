@@ -1,6 +1,4 @@
 ---
-date: 2018-03-29 19:00:57+00:00
-layout: post
 title: Silicon Valley und die weiter fahrt zum Pfeiffer Big Sur Campground (oder so...)
 categories:
 - Reisen
