@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Peter Buchegger"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software/Hardware Developer and new Ham Radio enthusiast. OE5BPA, thats me!"
+  bio    : "Hardware/Software Developer and new Ham Radio enthusiast. OE5BPA, thats me!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
