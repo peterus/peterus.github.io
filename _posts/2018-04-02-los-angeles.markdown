@@ -1,6 +1,4 @@
 ---
-date: 2018-04-02 05:14:08+00:00
-layout: post
 title: Los Angeles
 wordpress_id: 401
 categories:
