@@ -1,6 +1,4 @@
 ---
-date: 2018-03-25 02:08:42+00:00
-layout: post
 title: Der Flug über den Teich
 categories:
 - Fliegen
