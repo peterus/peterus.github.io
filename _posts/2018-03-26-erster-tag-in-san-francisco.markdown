@@ -18,6 +18,8 @@ Auf der Straße kann man alle möglichen Gefährte entdecken: Unter anderem auch
 
 Kunst wird in SF sehr groß geschrieben. Hier findet man alle möglichen Statuen und schöne Gebäude. Alle paar Meter sind kleine Ateliers in denen man sich Bilder und andere Kunstwerke ansehen kann. Die Preise sind zwar noch angeschrieben, jedoch hier nicht erwähnenswert (4 bis 5 stelliger Bereich).
 
+![DSC_0009.jpg](/assets/images/DSC_0009.jpg)
+
 ![DSC_0036.jpg](/assets/images/DSC_0036.jpg)
 
 Eigentlich wollten wir mit einer Fähre nach Alcatraz fahren um uns dort das alte Gefängnis anzusehen. Jedoch musste man sich hier schon weit im vorhinein Tickets besorgen, denn der nächste freie Termin war am 8. April! Somit war das Thema auch für uns fürs erste einmal erledigt.
