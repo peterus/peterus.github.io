@@ -19,10 +19,10 @@ Am nächsten Morgen wurde uns schon in der Früh nahegelegt den Camping Platz wi
 
 Von dort ging es wieder weiter aus dem Park bei "Joshua Tree" (Stadt im Norden des Parkes). Als ich wieder Handy Empfang hatte rief ich gleich den ersten RV Park von meiner Liste an und dieser hatte auch schon einen Platz für uns. Unser eigentlicher Plan war, dass wir nur schnell hinschauen um danach gleich wieder in den Park zu fahren. Nachdem die letzten paar Tage aber doch eher anstrengend waren, entschieden wir zu bleiben und ein Feuer zu machen um ENDLICH unser Fleisch über einem Feuer zu grillen.
 
-[![](http://www.pbuchegger.at/wp-content/uploads/2018/04/IMG-20180405-WA0012-768x1024.jpg)](http://www.pbuchegger.at/wp-content/uploads/2018/04/IMG-20180405-WA0012.jpg)
+![IMG-20180405-WA0012.jpg](/assets/images/IMG-20180405-WA0012.jpg)
 
 Am späten Nachmittag machten sich Paul und Didi noch auf den Weg um auf einem kleinen Hügel in der Nähe die Aussicht zu genießen.
 
-[![](http://www.pbuchegger.at/wp-content/uploads/2018/04/IMG-20180405-WA0011-768x1024.jpg)](http://www.pbuchegger.at/wp-content/uploads/2018/04/IMG-20180405-WA0011.jpg)[![](http://www.pbuchegger.at/wp-content/uploads/2018/04/IMG-20180405-WA0014-1024x768.jpg)](http://www.pbuchegger.at/wp-content/uploads/2018/04/IMG-20180405-WA0014.jpg)
+![IMG-20180405-WA0011.jpg](/assets/images/IMG-20180405-WA0011.jpg)
 
-
+![IMG-20180405-WA0014.jpg](/assets/images/IMG-20180405-WA0014.jpg)
