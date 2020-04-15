@@ -10,7 +10,6 @@ Nach einer kleinen Umpackaktion (mein Handgepäck war ihnen zu schwer) und einem
 Wir haben dann LOWL über die Piste 08 verlassen, mit einer eleganten Linksdrehung ging es über Linz und direkt weiter nach Frankfurt.
 
 ![IMG-20180324-WA0016.jpg](/assets/images/IMG-20180324-WA0016.jpg)
-
 ![20180324_190155.jpg](/assets/images/20180324_190155.jpg)
 
 Morgen Früh geht es dann weiter nach Paris und von dort aus weiter nach San Francisco mit der AirFrance. Leider mussen wir gleich die Koffer abholen und gleich wieder aufgeben (nur weil die AirFrance nicht bei der StarAliance dabei ist).
