@@ -34,7 +34,17 @@ Sollte heuer nochmal jemand nach LA oder Six Flags fliegen: nehmt mich mit! Ich 
 Am Dienstag waren wir im **Universal Studio Hollywood**.
 Dort war es so voll das wir immer 45 bis über 60 Minuten anstehen mussten bei den verschiedenen Fahrgeschäften. Der Park war somit leider total überrannt und ich hatte ehrlich gesagt nicht so viel Spaß wie in Six Flags gehabt. Am Abend ab ca. 19 Uhr wurde es besser. Nachdem wir dann aber schon so fertig waren sind wir dann auch um 20 Uhr wieder gefahren.
 
-[gallery size="large" columns="2" ids="431,433,436,428,429,430"]
+![20180403_095720.jpg](/assets/images/20180403_095720.jpg)
+
+![20180403_211217.jpg](/assets/images/20180403_211217.jpg)
+
+![20180403_191444.jpg](/assets/images/20180403_191444.jpg)
+
+![20180403_191439_HDR.jpg](/assets/images/20180403_191439_HDR.jpg)
+
+![20180403_163002.jpg](/assets/images/20180403_163002.jpg)
+
+![20180403_185547_HDR.jpg](/assets/images/20180403_185547_HDR.jpg)
 
 Am Abend habe ich dann noch für den nächsten Tag die Planung gemacht: Laut online System sind alle RV Camping Plätze im Joshua Tree National Park reserviert.
 
