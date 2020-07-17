@@ -10,8 +10,6 @@ Da ist selbst der Linzer Dom ein kleines Häuschen :)
 
 ![DSC_0006.jpg](/assets/images/DSC_0006.jpg)
 
-[pano file="panoramas/SF_2018_03/SF_Pano.html"]
-
 Auf der Straße kann man alle möglichen Gefährte entdecken: Unter anderem auch Straßenbahnen die wahrscheinlich älter sind als wir alle zusammen.
 
 ![DSC_0007.jpg](/assets/images/DSC_0007.jpg)

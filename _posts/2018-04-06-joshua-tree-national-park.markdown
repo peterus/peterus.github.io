@@ -39,8 +39,6 @@ Am nächsten Morgen wurde uns schon in der Früh nahegelegt den Camping Platz wi
 
 ![DSC_0103_01.jpg](/assets/images/DSC_0103_01.jpg)
 
-[pano file="panoramas/YTP_2018_03/Keys_View.html"]
-
 Von dort ging es wieder weiter aus dem Park bei "Joshua Tree" (Stadt im Norden des Parkes). Als ich wieder Handy Empfang hatte rief ich gleich den ersten RV Park von meiner Liste an und dieser hatte auch schon einen Platz für uns. Unser eigentlicher Plan war, dass wir nur schnell hinschauen um danach gleich wieder in den Park zu fahren. Nachdem die letzten paar Tage aber doch eher anstrengend waren, entschieden wir zu bleiben und ein Feuer zu machen um ENDLICH unser Fleisch über einem Feuer zu grillen.
 
 ![IMG-20180405-WA0012.jpg](/assets/images/IMG-20180405-WA0012.jpg)
