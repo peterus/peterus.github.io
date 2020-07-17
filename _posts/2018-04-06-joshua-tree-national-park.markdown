@@ -23,7 +23,21 @@ Nachdem es mitten in der Nacht war, wussten wir zwar nicht wie alles rund um uns
 
 Am nächsten Morgen wurde uns schon in der Früh nahegelegt den Camping Platz wieder zu verlassen da wir keine Reservierung hatten. Wir machten uns also wieder auf den Weg wo wir her gekommen waren. Auf dem Weg dort hin machten wir noch bei "Keys View" stop um die Aussicht zu genießen.
 
-[gallery columns="2" size="large" ids="448,447,445,444,443,442,441,440"]
+![DSC_0064.jpg](/assets/images/DSC_0064.jpg)
+
+![DSC_0066.jpg](/assets/images/DSC_0066.jpg)
+
+![DSC_0071_01.jpg](/assets/images/DSC_0071_01.jpg)
+
+![DSC_0093.jpg](/assets/images/DSC_0093.jpg)
+
+![DSC_0095_01.jpg](/assets/images/DSC_0095_01.jpg)
+
+![DSC_0097_01.jpg](/assets/images/DSC_0097_01.jpg)
+
+![DSC_0101.jpg](/assets/images/DSC_0101.jpg)
+
+![DSC_0103_01.jpg](/assets/images/DSC_0103_01.jpg)
 
 [pano file="panoramas/YTP_2018_03/Keys_View.html"]
 
