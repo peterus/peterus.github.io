@@ -11,7 +11,21 @@ An Montag waren wir in **Six Flags Magic Mountain**. Dort gibt es 19 Achterbahne
 Unser Ziel war, dass wir mit jeder Achterbahn fahren, leider haben wir es nicht ganz geschafft weil am Schluss wegen Arbeiten zwei zu hatten die wir noch nicht erledigt hatten.
 Der Park ist auf jeden Fall einen Besuch wert wenn man auf Vergnügungsparks steht!
 
-[gallery columns="2" size="large" ids="414,415,416,417,418,419,420,421"]
+![20180402_182432_HDR.jpg](/assets/images/20180402_182432_HDR.jpg)
+
+![20180402_112401_HDR.jpg](/assets/images/20180402_112401_HDR.jpg)
+
+![20180402_192630_HDR.jpg](/assets/images/20180402_192630_HDR.jpg)
+
+![20180402_184521_HDR.jpg](/assets/images/20180402_184521_HDR.jpg)
+
+![IMG-20180402-WA0022-e1522741461664.jpeg](/assets/images/IMG-20180402-WA0022-e1522741461664.jpeg)
+
+![IMG-20180403-WA0003.jpg](/assets/images/IMG-20180403-WA0003.jpg)
+
+![IMG-20180402-WA0024.jpeg](/assets/images/IMG-20180402-WA0024.jpeg)
+
+![IMG-20180402-WA0020.jpeg](/assets/images/IMG-20180402-WA0020.jpeg)
 
 Bei einer dieser Wasserattraktionen wurden wir so nass, dass ich von oben bis unten komplett geschwommen bin.
 
