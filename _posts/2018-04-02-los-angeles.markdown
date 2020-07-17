@@ -16,7 +16,15 @@ Auf dem "Walk of Fame" findet man viele lustige Gestalten: Superman, Spiderman, 
 
 Danach machten wir uns auf den Weg in das Dolby Theater (dort wo jedes Jahr die Oscar verliehen werden). Hier machten wir eine kleine Führung mit durch das Theater.
 
-[gallery size="large" columns="2" ids="409,408,407,406,405"]
+![DSC_0031.jpg](/assets/images/DSC_0031.jpg)
+
+![DSC_0033.jpg](/assets/images/DSC_0033.jpg)
+
+![DSC_0035.jpg](/assets/images/DSC_0035.jpg)
+
+![DSC_0036_01.jpg](/assets/images/DSC_0036_01.jpg)
+
+![DSC_0039.jpg](/assets/images/DSC_0039.jpg)
 
 Nach dem Theater gingen wir einmal Mittagessen. Wir fanden einen kleinen Laden der ein ziemlich cooles Konzept hat: Du schaufelst dir deine Nudeln die du haben möchtest in einen Kübel, gibst darauf das Gemüse welches du haben willst und suchst dir noch 2 Schälchen mit verschiedenen Fleisch raus. Zum Schluss kannst du noch zwischen verschiedene Saucen wählen. Sobald du dann bezahlt hast, kommt das alles in diese Öfen die sich die ganze Zeit drehen und dafür sorgen das nichts anbrennt. Das Essen war wirklich sehr gut!
 
