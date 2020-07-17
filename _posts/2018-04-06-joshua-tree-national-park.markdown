@@ -9,7 +9,17 @@ Wir sind also Gestern am Abend noch im Joshua Tree National Park angekommen. Lei
 
 Nachdem es mitten in der Nacht war, wussten wir zwar nicht wie alles rund um uns ausschaut, dafür konnte man die Sterne viel besser sehen! Nach dem Abendessen stellte ich gleich mein neues Stativ auf und schoss ein paar langzeit Aufnahmen.
 
-[gallery columns="2" size="large" ids="454,453,452,451,450,449"]
+![DSC_0053.jpg](/assets/images/DSC_0053.jpg)
+
+![DSC_0055_01.jpg](/assets/images/DSC_0055_01.jpg)
+
+![DSC_0060.jpg](/assets/images/DSC_0060.jpg)
+
+![DSC_0061.jpg](/assets/images/DSC_0061.jpg)
+
+![DSC_0061_01.jpg](/assets/images/DSC_0061_01.jpg)
+
+![DSC_0062.jpg](/assets/images/DSC_0062.jpg)
 
 Am nächsten Morgen wurde uns schon in der Früh nahegelegt den Camping Platz wieder zu verlassen da wir keine Reservierung hatten. Wir machten uns also wieder auf den Weg wo wir her gekommen waren. Auf dem Weg dort hin machten wir noch bei "Keys View" stop um die Aussicht zu genießen.
 
